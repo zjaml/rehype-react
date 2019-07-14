@@ -1728,8 +1728,8 @@ hasha@^3.0.0:
     is-stream "^1.0.1"
 
 hast-to-hyperscript@zjaml/hast-to-hyperscript:
-  version "7.0.2"
-  resolved "https://codeload.github.com/zjaml/hast-to-hyperscript/tar.gz/f21ed78f04bfb507fb23991264df96f4965372d1"
+  version "7.0.3"
+  resolved "https://codeload.github.com/zjaml/hast-to-hyperscript/tar.gz/a59c3ba48fc7d4edc6c621ea7f5f4d35524c8f22"
   dependencies:
     comma-separated-tokens "^1.0.0"
     property-information "^5.0.0"
